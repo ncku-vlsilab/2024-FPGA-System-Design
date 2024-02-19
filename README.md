@@ -3,7 +3,7 @@ Undergraduate course -- FPGA System Design
 
 This repository provides various FPGA design tutorials.
 <!--
-# Tool
+# Tool (安裝路徑請勿有空白,中文,或特殊符號)
 * [Vivado 2020.2](https://www.xilinx.com/support/download.html)
 
 # FPGA Development Board
