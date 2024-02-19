@@ -1,4 +1,5 @@
-/*Undergraduate course -- FPGA System Design
+<!--
+Undergraduate course -- FPGA System Design
 =================
 
 This repository provides various FPGA design tutorials.
@@ -38,7 +39,7 @@ This repository provides various FPGA design tutorials.
 
 # Verilog
 * [IEEE Standard for Verilog](https://ieeexplore.ieee.org/document/1620780)
-*/
+-->
 # Teaching Assistance
 
 **來信請在標題加上【FPGA】**
