@@ -5,7 +5,7 @@ This repository provides various FPGA design tutorials.
 
 # Tool (安裝路徑請勿有空白,中文,或特殊符號)
 * [Vivado 2020.2](https://www.xilinx.com/support/download.html)
-* [Vivado 2023.2] 操作上略有差異，且論壇中的問答皆以舊版本為主，若有需求可與助教討論。
+* [Vivado 2023.2](https://www.xilinx.com/support/download.html) 操作上略有差異，且論壇中的問答皆以舊版本為主，若有需求可與助教討論。
 
 # FPGA Development Board
 
