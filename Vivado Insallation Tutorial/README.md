@@ -5,17 +5,17 @@ Vivado Installation Tutorial
 
 1. 前往[AMD](https://www.amd.com/en.html)，註冊一個帳號。
 
-![Create an Account](images/account.png)
+![Create an Account](images/account_.png)
 
 2. 前往[這裡](https://www.xilinx.com/support/download.html)，下載 **Vivado 2023.2**
 
   **註：請安裝在使用者名稱為 "英文" 的電腦**
 
-![Download](images/download.png)
+![Download](images/download_.png)
 
 3. 登入後選擇版本。
 
-![Edition](images/vitis.png)
+![Edition](images/vitis_.png)
 
 4. **!!重要!!** 安裝路徑不可以有中文！
 
@@ -27,6 +27,6 @@ Vivado Installation Tutorial
 
 路徑 : _"C:\Xilinx\Vivado\2023.2\data\xhub\boards\XilinxBoardStore\boards\Xilinx"_
 
-![pynqz2_board_file](images/pynqz2_board_file.png)
+![pynqz2_board_file](images/pynqz2_board_file_.png)
 
 執行此動作後須重新開啟 Vivado 才會出現此板子的選項
