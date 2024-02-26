@@ -14,7 +14,7 @@ FPGA Desgin Homwork 0 - Verilog Code Practice
 一組繳交一份  
 請壓縮成 `.rar` 或是 `.zip`
 
-- /FPGA_GroupX
+- /FPGA_HWX_GroupX
   - /src
   - 說明文件 ( *.md* 或 *.pdf* )
 
