@@ -7,7 +7,7 @@ Vivado Installation Tutorial
 
 ![Create an Account](images/account.png)
 
-2. 前往[這裡](https://www.xilinx.com/support/download.html)，下載 **Vivado 2020.2**
+2. 前往[這裡](https://www.xilinx.com/support/download.html)，下載 **Vivado 2023.2**
 
   **註：請安裝在使用者名稱為 "英文" 的電腦**
 
@@ -25,7 +25,7 @@ Vivado Installation Tutorial
 
 這門課所使用的板子為 PYNQ-Z2，[官網](https://www.tul.com.tw/)有提供此板子的 [board file](https://dpoauwgwqsy2x.cloudfront.net/Download/pynq-z2.zip)。下載解壓縮後，將整個資料夾放到 Vivado 安裝目錄裡的 board_files 資料夾底下   
 
-路徑 : _"Xilinx/Vivado/2020.2/data/boards/board_files"_
+路徑 : _"C:\Xilinx\Vivado\2023.2\data\xhub\boards\XilinxBoardStore\boards\Xilinx"_
 
 ![pynqz2_board_file](images/pynqz2_board_file.png)
 
