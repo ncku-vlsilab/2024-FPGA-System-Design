@@ -3,7 +3,7 @@ Vivado Installation Tutorial
 
 # Part 1 - Vivado Installation
 
-1. 前往[Xilinx](https://www.xilinx.com/)，註冊一個帳號。
+1. 前往[AMD](https://www.amd.com/en.html)，註冊一個帳號。
 
 ![Create an Account](images/account.png)
 
