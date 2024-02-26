@@ -8,7 +8,7 @@ FPGA Design Lab0
 
 ## Step 1. Create a new project
 首先，開啟 Vivado 軟體後會出現以下介面。
-> NOTE: 此為 Vivado 2020.2 介面
+> NOTE: 此為 Vivado 2023.2 介面
 
 選擇 Create Project 選項。
 
@@ -50,7 +50,7 @@ FPGA Design Lab0
 
 在 Step 1 我們已經將本次實驗所需的 RTL code 及 Testbench 加入到 Project 中，直接按下上圖 Vivado 介面左邊 PROJECT MANAGER 中間的 Run Simulation -> Run Behavior Simulation 。
 
-![Sim Confirm](images/sim_comfirm.png)
+![Sim Confirm](images/sim_confirm.png)
 
 點選以後，就可以看模擬的波形、訊息等等資訊。
 
