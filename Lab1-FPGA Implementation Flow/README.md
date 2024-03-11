@@ -87,35 +87,35 @@ Add or create design sources : 加入 `/src` 內的 `top.v` `LED.v` `divider.v`
 
 Add or create constraints : 加入 `/xdc` 內的 `blinky.xdc` `pynq-z2_v1.0.xdc`
 
-![add files](images/add_files.jpg)
+![add files](images/add_files_24.jpg)
 
 加入完成後如圖
 
-![add done](images/add_done.jpg)
+![add done](images/add_done_24.jpg)
 
 ## Step 2 - Synthesis
 
-![synthesis](images/synthesis2.jpg)
+![synthesis](images/synthesis2_24.jpg)
 
 跑完後可以在左邊選單選擇想看的合成結果 (如電路圖，FPGA上使用到的模組等等)
 
-![synthesis done](images/synthesis_done.jpg)
+![synthesis done](images/synthesis_done_24.jpg)
 
 ## Step 3 - Implementation
 
-![implementation](images/implementation.jpg)
+![implementation](images/implementation_24.jpg)
 
 和 Synthesis 一樣，跑完可以看 Implementation 後的結果
 
-![implementation done](images/implementation_done.jpg)
+![implementation done](images/implementation_done_24.jpg)
 
 ## Step 4 - Generate Bitstream
 
-![Generate Bitstream](images/bitstream.jpg)
+![Generate Bitstream](images/bitstream_24.jpg)
 
 跑完後如圖操作
 
-![bitstream done](images/bitstream_done.jpg)
+![bitstream done](images/bitstream_done_24.jpg)
 
 ## Step 5 - Turn on FPGA
 
@@ -129,10 +129,10 @@ Add or create constraints : 加入 `/xdc` 內的 `blinky.xdc` `pynq-z2_v1.0.xdc`
 
 開啟 FPGA 後如圖操作
 
-![Auto Connect](images/auto_connect.jpg)
+![Auto Connect](images/auto_connect_24.jpg)
 
 若有正確運行應該會抓到 FPGA 的資訊，按下 `Program device` 即可將生成的 bitstream 燒錄進 FPGA
 
-![program device](images/program_device.jpg)
+![program device](images/program_device_24.jpg)
 
 燒錄完成後請搭配提供的 RTL Code 觀察 Switch 和 LEDs 的關係
