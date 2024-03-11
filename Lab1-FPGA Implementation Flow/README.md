@@ -135,4 +135,6 @@ Add or create constraints : 加入 `/xdc` 內的 `blinky.xdc` `pynq-z2_v1.0.xdc`
 
 ![program device](images/program_device_24.jpg)
 
+![program confirm](images/program_confirm_24.jpg)
+
 燒錄完成後請搭配提供的 RTL Code 觀察 Switch 和 LEDs 的關係
