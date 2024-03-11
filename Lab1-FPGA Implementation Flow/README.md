@@ -3,7 +3,7 @@ FPGA Design Lab1 - FPGA Implementation Flow
 
 # Part 1 - Introduction to Vivado Gui
 
-![GUI](images/vivado_gui.jpg)
+![GUI](images/vivado_gui_24.jpg)
 
 ### 1. Project Manager
 
