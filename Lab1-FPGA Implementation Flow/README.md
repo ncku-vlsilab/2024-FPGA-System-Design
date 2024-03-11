@@ -141,6 +141,8 @@ Add or create constraints : 加入 `/xdc` 內的 `blinky.xdc` `pynq-z2_v1.0.xdc`
 
 ## Additional
 
-在合成電路上，vivado提供各種constraint file
+在合成電路上，vivado提供各種synthesis以及implementation的strategies，優化不同面向的需求。
 
 ![synthesis setting](images/synthesis_setting_24.jpg)
+
+![strategy](images/strategy_24.jpg)
