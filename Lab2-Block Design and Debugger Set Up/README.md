@@ -51,7 +51,7 @@ Reference : [Wiki](https://zh.wikipedia.org/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93IP%E
 
 Finish 後會打開一個新的 IP project
 
-![IP_project](images/opend_IP_project_24.jpg)
+![IP_project](images/opened_IP_project_24.jpg)
 
 按照步驟點選，將電路打包成IP
 
