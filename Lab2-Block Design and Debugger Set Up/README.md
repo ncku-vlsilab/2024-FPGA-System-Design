@@ -199,11 +199,11 @@ Vivado 有提供 ILA 的 IP core 供使用者進行硬體的 Debug，這裡我�
 接著我們要設定 Trigger 條件，假設我們 Trigger 的條件為 `R_out == 1`  
 在 Trigger Setup 的視窗點選 `+` 號將 R_out 訊號加入，然後對其做設定
 
-![BD_ILA_debug_probes_trigger_setup](images/BD_ILA_debug_probes_trigger_setup_24.jpg)
+![BD_ILA_debug_probes_trigger_setup](images/BD_ILA_debug_trigger_setup_24.jpg)
 
 可以在 Settings 視窗設定 Trigger 的位置、Window data depth等資訊
 
-![BD_ILA_debug_probes_settings](images/BD_ILA_debug_probes_settings_24.jpg)
+![BD_ILA_debug_probes_settings](images/BD_ILA_debug_probes_setting_24.jpg)
 
 設定完成後，點選 Debug Probes 視窗上方的 run 鍵，即可看到波形
 
