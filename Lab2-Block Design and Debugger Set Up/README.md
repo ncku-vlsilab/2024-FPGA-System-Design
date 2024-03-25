@@ -224,7 +224,7 @@ Vivado 有提供 ILA 的 IP core 供使用者進行硬體的 Debug，這裡我�
 
 按下左方工具列的 `Set Up Debug`
 
-![Set Up Debgugger](images/set_up_debugger_24.jpg)
+![Set Up Debgugger](images/set_up_debugging_24.jpg)
 
 在 Clock Domain Undefined 的地方右鍵，選擇 `Select Clock Domain`
 
