@@ -48,28 +48,23 @@ File > Export > Export Hardware。
 ## Step 4. Launch Vitis IDE & Write a LEDs control program
 Tools > Launch Vitis IDE
 
-回顧 lab3-1，open workspace ，並且 Create Platform Component，選擇前面產生的 XSA 檔案
+回顧 lab3-1，open workspace ，並且 Create Platform Component，選擇前面產生的 XSA 檔案。
 
-利用 Example 建立完整的環境，並選擇前面完成的 platform
+利用 Example 建立完整的環境，並選擇前面完成的 platform。
 
 ![](images/create_application_24.jpg)
 
-置換 application project 下的 Sources/src/helloworld.c 為講義中的 `Lab3-2/src/led.c`
+置換 application project 下的 Sources/src/helloworld.c 為講義中的 `Lab3-2/src/led.c`。
 
-![](images/select_platform_24.jpg)
+硬體中所有資源都有他所屬的地址，地址要到 `platform\export\platform\sw\standalone_ps7_cortexa9_0\include\xparameters.h` 查詢。
 
-優先 build platform
+![](images/gpio_address_24.jpg)
 
+<!-- 因為這個 lab 需要 include bitstream，所以需要更改 application/Settings/launch.json 中的 Initialization file -->
 
+先 build platform 後，再 build application。
 
-
-
-
-請回顧 Lab3-1 ，建立一個新的 project -> 建立空的 source file 請貼上 `Lab3-2/src/led.c` 的內容。
-
-在執行 Run Configuration 時，由於這次有產生 bitstream 所以會多出現一個 `.bit` 檔案。
-
-![](https://i.imgur.com/aMB0Rmq.png)
+連上 PuTTY 後，執行 application 的 Run ，試著調整開關，觀察其結果。 
 
 ## References
  1. [Embedded System](https://zh.wikipedia.org/wiki/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F)
