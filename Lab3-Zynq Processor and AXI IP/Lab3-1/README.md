@@ -59,7 +59,7 @@ Tools > Launch Vitis IDE
 
 ![](images/Vitis_GUI_24.jpg)
 
-新增資料夾作為 workspace
+選擇open workspace，並新增資料夾作為 workspace
 
 ![](images/open_workspace_24.jpg)
 
