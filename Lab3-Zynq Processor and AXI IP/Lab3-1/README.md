@@ -92,7 +92,7 @@ platform 完成後，圖如下
 
 ![](images/hello_world_done_24.jpg)
 
-先 build platform 後再 build applicationi，才不會發生 header file not found 的問題
+先 build platform 後再 build application，才不會發生 header file not found 的問題
 
 ![](images/build_platform_24.jpg)
 
