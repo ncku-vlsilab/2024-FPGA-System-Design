@@ -58,11 +58,11 @@ Tools > Launch Vitis IDE
 
 硬體中所有資源都有他所屬的地址，地址要到 `platform\export\platform\sw\standalone_ps7_cortexa9_0\include\xparameters.h` 查詢。
 
-![](images/gpio_address_24.jpg)
+<!-- ![](images/gpio_address_24.jpg) -->
 
 <!-- 因為這個 lab 需要 include bitstream，所以需要更改 application/Settings/launch.json 中的 Initialization file -->
 
-先 build platform 後，再 build application。
+最後一步，先 build platform 後，再 build application。
 
 連上 PuTTY 後，執行 application 的 Run ，試著調整開關，觀察其結果。 
 
