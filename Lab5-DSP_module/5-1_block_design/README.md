@@ -33,23 +33,23 @@ FPGA Design Lab5-1 - How to Use DSP Module with Block Design
 
 目前的 Block Design 應該會長這樣
 
-![Block Design 0](images/blcok_design_0_24.jpg)
+![Block Design 0](images/block_design_0_24.jpg)
 
 接著使用 `Add Source`，加入 `/src/router.v` 作為 Input 32bit-16bit*2 的分線器
 
 在空白區域 `右鍵` -> `Add Module` 選擇 `router.v`，完成後 Block Design 如下圖
 
-![Block Design 1](images/blcok_design_1_24.jpg)
+![Block Design 1](images/block_design_1_24.jpg)
 
 接線如下圖
 
-![Block Design 2](images/blcok_design_2_24.jpg)
+![Block Design 2](images/block_design_2_24.jpg)
 
 接著再加入 Zynq CPU，和之前 Lab 一樣做 `Block Automation`、`Connection Automation`
 
 完成後如下圖
 
-![Block Design 3](images/blcok_design_3_24.jpg)
+![Block Design 3](images/block_design_3_24.jpg)
 
 接著參照之前的 Lab，將 Block Design 轉換成 HDL Wrapper 後產生 bitstream，並 Export Hardware 後開啟 Vitis
 
